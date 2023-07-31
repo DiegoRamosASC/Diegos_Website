@@ -1,0 +1,122 @@
+nav {
+    position:sticky;
+    top:0;
+    background-color: #E8D6CB;
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+    overflow: hidden;
+}
+a{
+    color:white;
+    text-decoration:none;
+}
+
+#Intro{
+    display: flex;
+    justify-content: space-around;    
+    flex-wrap: wrap;
+}
+#yuh{
+    width:50%;
+    align-content: center;
+}
+#bio{
+    text-align: center;
+    font-size: 125%;
+}
+#abt_me{
+    text-align: center;
+}
+.item:hover {
+    font-size: 110%;
+    opacity: 0.75;
+}
+.title{
+    color:white;
+}
+#aca{
+    text-align: center;
+}
+.top {
+    background-color: #E8D6CB;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img {
+    width: 25%;
+}
+.important {
+    display:flex;
+    flex-wrap: wrap;
+    padding: 50px;
+    justify-content:space-around;
+
+}
+.achievments{
+    text-align:center;
+}
+.skills{
+    text-align: center;
+}
+#Skills{
+    border-radius: 25px;
+    padding:20px;
+    color:white;
+    background-color: #E8D6CB;
+    text-align: center;
+}
+#Achievements{
+    border-radius: 25px;
+    padding:20px;
+    color:white;
+    background-color: #E8D6CB;
+    text-align: center;
+}
+#ach_info{
+    width: 900px;
+    text-align: center;
+    font-size: 125%;
+}
+#list{
+    font-size: 125%;
+}
+.contact{
+    text-align:center;
+}
+#academics{
+    border-radius: 25px;
+    display:flex;
+    flex-wrap:warp;
+    justify-content: space-around;
+    color:white;
+    background-color:#231E30;
+}
+.classes{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+}
+
+.grade{
+    font-size:20px;
+    padding:20px;
+}
+#contact{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: #E8D6CB;
+    border-radius: 25px;
+}
+.hyperlinks{
+    color:#AD6A6C;
+}
+.Contacts:hover{
+    font-size: 110%;
+    opacity: 0.75;
+}
